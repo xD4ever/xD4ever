@@ -15,7 +15,7 @@
 
  **<h3 align="left">🚀 I'm a computer science student at UPHF University in France, originally from Tunisia. Passionate about software development, cybersecurity, and exploring new technologies. Enjoys building practical projects, learning through experimentation, and continuously improving coding skills.</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left">About Me</h3>**
 
 - 🌱 I'm currently learning: **Cybersecurity fundamentals, network defense techniques, and advanced JavaScript development.**
 - 💬 Ask me about: **Software development, web applications, databases, and cybersecurity basics.**
@@ -24,7 +24,23 @@
 
  **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java" style="margin-right: 8px"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="28" alt="C" style="margin-right: 8px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 8px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white" height="28" alt="Shell" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="28" alt="Vue" style="margin-right: 8px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 8px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 8px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 8px"></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;">
+    <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python">
+    <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java">
+    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="28" alt="C">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white" height="28" alt="Shell">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="28" alt="Vue.js">
+    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js">
+    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman">
+</div>
 
  **<h3 align="left">GitHub Stats</h3>**
 
