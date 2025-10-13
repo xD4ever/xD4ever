@@ -24,6 +24,7 @@
 
  **<h3 align="left">Skills</h3>**
 
+**📌 Programming Languages**
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;">
     <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python">
     <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java">
@@ -31,16 +32,45 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript">
     <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white" height="28" alt="Shell">
+</div>
+<br>
+
+**🌐 Frontend Development**
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;">
     <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="28" alt="Vue.js">
     <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap">
+</div>
+<br>
+
+**⚙️ Backend Development**
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;">
     <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js">
     <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express">
+</div>
+<br>
+
+**🗄️ atabases**
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB">
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL">
+</div>
+<br>
+
+**🧪Testing**
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;">
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman">
 </div>
+<br>
+
+**🔧 Other Tools**
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="28" alt="Git">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker">
+
+</div>
+<br>
 
  **<h3 align="left">GitHub Stats</h3>**
 
