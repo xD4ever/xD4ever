@@ -75,5 +75,5 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=xD4ever&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=xD4ever&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
