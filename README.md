@@ -74,5 +74,5 @@
 
  **<h3 align="left">GitHub Stats</h3>**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xd4ever&show_icons=true&locale=en" alt="xd4ever" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xD4ever&show_icons=true&locale=en" alt="xD4ever" /></p>
 
