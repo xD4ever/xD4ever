@@ -75,7 +75,3 @@ I'm a computer science student at UPHF University in France, originally from Tun
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker">
 </div>
 <br>
-
-<h3 align="left">GitHub Stats</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xD4ever&show_icons=true&locale=en" alt="xD4ever" /></p>
